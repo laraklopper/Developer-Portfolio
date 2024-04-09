@@ -1,5 +1,6 @@
-import React from 'react';
-import Link from 'next/Link';
+// Import necessary modules and components from React and Next.js
+import React from 'react';// Import the React module to use React functionalities
+import Link from 'next/Link';//Import Link from Next.js for client side navigation
 
 //Header function component
 export default function Header({heading}) {
